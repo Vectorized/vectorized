@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Vectorized
 
-### Solidity
-
 Open-source Solidity repositories I'm currently maintaining:
 
 - [Solady](https://github.com/Vectorized/solady) Optimized Solidity snippets.
