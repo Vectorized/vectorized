@@ -9,7 +9,7 @@ Open-source Solidity repositories I'm currently maintaining:
 
 ### Contact
 
-Direct message or tag [me on Twitter](https://twitter.com/optimizoor) for the best response times.
+Direct message or tag [me on 𝕏](https://x.com/optimizoor) for the best response times.
 
 
 <!--
