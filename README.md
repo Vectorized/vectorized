@@ -5,7 +5,6 @@ Open-source Solidity repositories I'm currently maintaining:
 - [Solady](https://github.com/Vectorized/solady) Optimized Solidity snippets.
 - [ERC721A](https://github.com/chiru-labs/ERC721A) ERC721 implementation optimized for batch minting.
 - [Multicaller](https://github.com/Vectorized/multicaller)  Efficient multicaller contracts.
-- [Closedsea](https://github.com/Vectorized/closedsea) Optimized and flexible version of OpenSea's operator filterer.
 
 ### Contact
 
